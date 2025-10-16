@@ -9,13 +9,13 @@
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
 
-- ✅ **Contract Hot Reload**: Your frontend auto-adapts to your smart contract as you edit it.
-- 🪝 **[Custom hooks](https://docs.scaffoldeth.io/hooks/)**: Collection of React hooks wrapper around [wagmi](https://wagmi.sh/) to simplify interactions with smart contracts with typescript autocompletion.
-- 🧱 [**Components**](https://docs.scaffoldeth.io/components/): Collection of common web3 components to quickly build your frontend.
-- 🔥 **Burner Wallet & Local Faucet**: Quickly test your application with a burner wallet and local faucet.
-- 🔐 **Integration with Wallet Providers**: Connect to different wallet providers and interact with the Ethereum network.
 
 ![Debug Contracts tab](https://github.com/scaffold-eth/scaffold-eth-2/assets/55535804/b237af0c-5027-4849-a5c1-2e31495cccb1)
+
+## Deployed Contract Etherscan Links
+
+- [Staker.sol on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x7ad486d9F2e5FA21bb41D917C44Ea73dAE3d1F28)
+- [ExampleExternalContract.sol on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x622B10f22E27659A0DB330D39259558aD06987F1#code)
 
 ## Requirements
 
@@ -262,8 +262,8 @@ Visit our [docs](https://docs.scaffoldeth.io) to learn how to start building wit
 
 To know more about its features, check out our [website](https://scaffoldeth.io).
 
-## Contributing to Scaffold-ETH 2
 
-We welcome contributions to Scaffold-ETH 2!
+## Contract Etherscan Links
 
-Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to Scaffold-ETH 2.
+- [Staker.sol on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x7ad486d9F2e5FA21bb41D917C44Ea73dAE3d1F28)
+- [ExampleExternalContract.sol on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x622B10f22E27659A0DB330D39259558aD06987F1#code)
